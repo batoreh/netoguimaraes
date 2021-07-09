@@ -1,4 +1,4 @@
-### [deprecated profile] visit https://github.com/mashebang for the current github account.
+### [deprecated profile] visit https://github.com/mashebang for my current github account.
 
 <!--
 **netoguimaraes/netoguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
